@@ -1,0 +1,10 @@
+					DEV WEB
+server - side (back-end)
+	- PHP
+	- python
+	- js
+	- etc
+cliente - side (front-end)
+	- html, css e js
+
+https://www.w3schools.com/html/default.asp
