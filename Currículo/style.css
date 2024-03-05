@@ -1,0 +1,73 @@
+* {
+    margin: 0%;
+}
+
+.header {
+    background-color: rgb(106, 171, 236);
+    width: 100%;
+    height: 120px;
+    border: 1px solid black;
+}
+
+.navbar {
+    background-color: rgb(68, 151, 235);
+    height: 400px;
+    width: 180px;
+    float: left;
+}
+
+.main {
+    background-color: rgb(157, 198, 239);
+    width: calc(100% - 180px);
+    height: 400px;
+    float: right;
+}
+
+.footer {
+    background-color: rgb(106, 171, 236);
+    height: 50px;
+    clear: both;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: rgb(39, 33, 33);
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: brown;
+}
+
+h3 {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center ;
+}
+
+.linkedin {
+    color: blue;
+}
+
+.titulosmain {
+    color: brown;
+    text-decoration: overline;
+}
+
+.textomain {
+    margin: 5px 10px;
+    text-align: justify;
+}
+
+.foto {
+    width: 180px;
+    height: 200px;
+    margin-left: 850px;
+    margin-top: -130px;
+    
+}
+
